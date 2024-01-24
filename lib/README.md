@@ -1,11 +1,5 @@
 # Official noembed client for NodeJS ✅
 
-<img src="https://badgen.net/
-github/license/gilzonme/noembed">
-<img src="https://badgen.net/
-github/stars/gilzonme/noembed
-">
-
 This client currently supports all the https://noembed.com/#supported-sites
 
 ## Usage : To Be Updated
