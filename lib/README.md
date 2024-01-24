@@ -1,6 +1,6 @@
 # Official noembed client for NodeJS ✅
 
-This client currently supports all the https://noembed.com/#supported-sites
+This client currently supports all the <a href="https://noembed.com/#supported-sites" target="_blank">https://noembed.com/#supported-sites</a>
 
 ## Usage
 
