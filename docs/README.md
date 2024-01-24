@@ -1,8 +1,9 @@
 # Official noembed client for NodeJS ✅
 
+This client currently supports all the https://noembed.com/#supported-sites
 
-### This plugin is currently in development for v1.0.0. Please check back later.
+## Usage : To Be Updated
 
-This client currently supports
-
-✅ Youtube URLS
+~~~
+Please check back for later version
+~~~
