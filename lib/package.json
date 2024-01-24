@@ -1,6 +1,6 @@
 {
   "name": "noembed",
-  "version": "0.0.3-2",
+  "version": "0.0.3-3",
   "description": "Noembed — oEmbed everything.",
   "main": "index.js",
   "scripts": {
