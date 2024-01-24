@@ -13,3 +13,7 @@ Please check back on later versions!
 ### Github
 
 Repositry link : https://github.com/gilzonme/noembed
+
+### Discord
+
+Join and discuss with us on discord : https://discord.gg/zSHcgHBjKp
