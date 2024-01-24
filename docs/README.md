@@ -2,7 +2,7 @@
 
 This client currently supports all the https://noembed.com/#supported-sites
 
-## Usage : To Be Updated
+## Usage
 
 ~~~
 const noEmbed = require('noembed');
