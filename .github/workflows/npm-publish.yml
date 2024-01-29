@@ -28,7 +28,8 @@ jobs:
           registry-url: https://registry.npmjs.org/
       - name: Publish
         run: |
-          cd ./lib  
+          cp ./README.md ./lib/README.md
+          cd ./lib
           npm i
           git config --global user.email "gilzon.me@gmail.com"
           git config --global user.name "Gilson Gilbert"
