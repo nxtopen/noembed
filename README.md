@@ -1,5 +1,7 @@
 # Official noembed client for NodeJS ✅
 
+<b>Contributors : Gilson Gilbert ( <a href="https://github.com/gilzonme" target="_blank">GH</a> | <a href="https://www.linkedin.com/in/gilsongilbert/" target="_blank">LI</a> )</b>
+
 This client currently supports all the <a href="https://noembed.com/#supported-sites" target="_blank">https://noembed.com/#supported-sites</a>
 
 ## Usage
