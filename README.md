@@ -43,7 +43,7 @@ noEmbed.html(youtubeUrl)
 
 ### Github
 
-Repositry link : https://github.com/gilzonme/noembed
+Repository link : https://github.com/gilzonme/noembed
 
 ### Discord
 
