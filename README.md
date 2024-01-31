@@ -28,6 +28,15 @@ noEmbed.providers()
     .catch(error => {
         console.error('Error:', error.message);
     });
+
+noEmbed.html(youtubeUrl)
+    .then(htmlContent => {
+        console.log('HTML:');
+        console.log(htmlContent);
+    })
+    .catch(error => {
+        console.error('Error:', error.message);
+    });
 ~~~
 
 ## Community & Contribution
