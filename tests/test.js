@@ -12,3 +12,12 @@ noEmbed.get(youtubeUrl)
     .catch(error => {
         console.error('Error:', error.message);
     });
+
+noEmbed.providers()
+    .then(embeddedContent => {
+        console.log('Providers:');
+        console.log(embeddedContent);
+    })
+    .catch(error => {
+        console.error('Error:', error.message);
+    });
