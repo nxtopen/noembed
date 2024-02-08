@@ -1,19 +1,20 @@
 {
   "name": "noembed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Noembed — oEmbed everything.",
   "keywords": [
     "noembed",
     "embed",
-    "html embed"
+    "html embed",
+    "youtube"
   ],
   "homepage": "https://noembed.js.org",
   "bugs": {
-    "url": "https://github.com/gilzonme/noembed/issues"
+    "url": "https://github.com/nxtopen/noembed/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gilzonme/noembed.git"
+    "url": "git://github.com/nxtopen/noembed.git"
   },
   "main": "index.js",
   "author": {
