@@ -20,6 +20,9 @@ jobs:
   publish-npm:
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
@@ -33,6 +36,6 @@ jobs:
           npm i
           git config --global user.email "gilzon.me@gmail.com"
           git config --global user.name "Gilson Gilbert"
-          npm publish
+          npm publish --provenance
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
