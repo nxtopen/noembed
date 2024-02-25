@@ -1,6 +1,6 @@
 {
   "name": "noembed",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Noembed — oEmbed everything.",
   "keywords": [
     "noembed",
@@ -8,6 +8,9 @@
     "html embed",
     "youtube"
   ],
+  "publishConfig": {
+  "provenance": true
+},
   "homepage": "https://noembed.js.org",
   "bugs": {
     "url": "https://github.com/nxtopen/noembed/issues"
